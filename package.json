@@ -17,6 +17,7 @@
     "mint-ui": "^2.2.13",
     "style-loader": "^1.0.0",
     "vue-loader": "^15.7.2",
+    "vue-resource": "^1.5.1",
     "vue-style-loader": "^4.1.2",
     "vue-template-compiler": "^2.6.10",
     "vue-template-es2015-compiler": "^1.9.1",
